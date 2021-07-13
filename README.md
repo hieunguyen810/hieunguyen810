@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hieu
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning database management systems.
+- 🌱 I’m currently learning web application.
 
 
 <!---
