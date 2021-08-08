@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hieu
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning web application.
+- 🌱 I’m currently learning web application with Spring Boot and React.
 
 
 <!---
