@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web application with Spring Boot and React.
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/hi%E1%BA%BFu-nguy%E1%BB%85n-2825221a9/]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/hi%E1%BA%BFu-nguy%E1%BB%85n-2825221a9/]
+<br />
 My email: trihieu08101999@gmail.com
 <br />
 ### Languages and Tools:
