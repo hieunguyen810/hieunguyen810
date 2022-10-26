@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hieu
-- 👀 I have 1.5 year experience as a software engineer
+- 👀 I have 2 years of experience as a software engineer
 - 🌱 Interest in machine learning, cyber security, cooking, animation, gardening.
 
 ### Connect with me:
