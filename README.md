@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hieu
 - 👀 I have 2 years of experience as a software engineer
-- 🌱 Interest in machine learning, cyber security, cooking, animation, gardening.
+- 🌱 Interest in linux, web application developing, machine learning, cyber security, cooking, animation, gardening.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/hieunguyen810/) Linkedin
