@@ -30,7 +30,6 @@ My email: trihieu08101999@gmail.com
 <img align="left" alt="Blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" />
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyen810)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 hieunguyen810/hieunguyen810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
