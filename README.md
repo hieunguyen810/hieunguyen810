@@ -5,6 +5,8 @@
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/hieunguyen810/) Linkedin
 <br />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>](https://www.instagram.com/__hieunguyen810__/) Instagram
+<br />
 My email: trihieu08101999@gmail.com
 <br />
 ### Languages and Tools:
