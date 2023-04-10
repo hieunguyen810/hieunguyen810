@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hieu
-- 👀 I have 2 years of experience as a software engineer
+- 👀 I have 2+ years of experience as a software engineer
 - 🌱 Interest in linux, web application developing, machine learning, cyber security, cooking, animation, gardening.
 
 ### Connect with me:
@@ -27,6 +27,8 @@ My email: trihieu08101999@gmail.com
 <img align="left" alt="SVN" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-line.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" />
+<img align="left" alt="Oracle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
+<img align="left" alt="Oracle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
 <br />
 <br />
 <!---
