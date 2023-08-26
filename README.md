@@ -27,6 +27,11 @@ My email: trihieu08101999@gmail.com
 <img align="left" alt="SVN" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-line.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" />
+<img align="left" alt="Prometheus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Latex" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />
+<img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <br />
 <br />
 <!---
